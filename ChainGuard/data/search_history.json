@@ -63,6 +63,22 @@
       "risk_level": "moderate",
       "timestamp": "2026-09-19T11:36:08.104622",
       "is_demo": true
+    },
+    {
+      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "chain": "ethereum_mainnet",
+      "score": 50,
+      "risk_level": "moderate",
+      "timestamp": "2026-09-19T11:48:57.953924",
+      "is_demo": true
+    },
+    {
+      "address": "0xdef1000000000000000000000000000000000003",
+      "chain": "ethereum_mainnet",
+      "score": 59,
+      "risk_level": "moderate",
+      "timestamp": "2026-09-19T11:49:41.081294",
+      "is_demo": true
     }
   ]
 }
